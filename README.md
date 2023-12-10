@@ -11,8 +11,8 @@
 
 </div>
 
-# Bank Marketing Analysis Code
-[Bank Marketing Analysis - JUPYTER](https://nbviewer.org/github/ahmedy19/bank_marketing_classification.ipynb)
+# Bank Marketing Code
+[Bank Marketing Analysis - JUPYTER](https://nbviewer.org/github/ahmedy19/bank_marketing_classification/blob/main/bank_marketing_classification.ipynb)
 
 
 
@@ -50,7 +50,7 @@ and got some insights, see 👇.
 ## Insights
 
 - **Dataset**
-    ![image](/imgs/1.png)
+    ![image](/imgs/1d.png)
 - **Insight 1: loading?**
     loading
 
