@@ -11,7 +11,7 @@
 
 </div>
 
-# Bank Marketing Code
+# [Loading] Bank Marketing Code
 [Bank Marketing Analysis - JUPYTER](https://nbviewer.org/github/ahmedy19/bank_marketing_classification/blob/main/bank_marketing_classification.ipynb)
 
 
@@ -54,6 +54,13 @@ and got some insights, see 👇.
 - **Insight 1: loading?**
     loading
 
+
+## Applied Models
+- Logistic regression.
+- SVM - Support Vector Machine.
+- KNN - K Nearest Neighbors.
+- Decision tree.
+- Random forest.
 
   
 ## Team Members:
