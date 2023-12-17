@@ -11,9 +11,10 @@
 
 </div>
 
-# [Loading] Bank Marketing Code
+# Bank Marketing Code
 [Bank Marketing Analysis - JUPYTER](https://nbviewer.org/github/ahmedy19/bank_marketing_classification/blob/main/bank_marketing_classification.ipynb)
 
+[Bank Marketing Analysis - Case 2 - JUPYTER](https://nbviewer.org/github/ahmedy19/bank_marketing_classification/blob/main/bank_marketing_classification_case_2.ipynb)
 
 
 # Dataset
