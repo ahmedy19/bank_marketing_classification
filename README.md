@@ -22,38 +22,27 @@ This classification problem involves predicting whether a client will subscribe 
 
 We tried as a team to analyze data of [Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing) based on this features
 
-- age: loading.
-- job: loading.
-- marital: loading.
-- education: loading.
-- default: loading.
-- housing: loading.
-- loan: loading.
-- contact_type: loading.
-- month: loading.
-- day_of_week: loading.
-- last_contact_duration: loading.
-- campaign: loading.
-- passed_days: loading.
-- previous: loading.
-- previous_outcome: loading.
-- employment_variation_rate: loading.
-- consumer_price_index: loading.
-- consumer_confidence_index: loading.
-- euribor3m: loading.
-- number_of_employees: loading.
-- y: Target.
-
-
-and got some insights, see 👇.
-
-
-## Insights
-
-- **Dataset**
-    ![image](/imgs/1d.png)
-- **Insight 1: loading?**
-    loading
+- age: The age of the bank client.
+- job: Type of job, categorized as "admin.," "unknown," "unemployed," "management," "housemaid," "entrepreneur," "student," "blue-collar," "self-employed," "retired" "technician," or "services.".
+- marital: Marital status.
+- education: Educational level.
+- default: Binary indicator of whether the client has credit in default ("yes" or "no").
+- housing: Binary indicator of whether the client has a housing loan ("yes" or "no").
+- loan: Binary indicator of whether the client has a personal loan ("yes" or "no").
+- contact_type: Type of contact communication.
+- month: Last contact month of the year.
+- day_of_week: Day of the week when the last contact was made..
+- last_contact_duration: Duration of the last contact in seconds.
+- campaign: Number of contacts performed during this campaign for the client.
+- passed_days: Number of days that passed since the client was last contacted from a previous campaign (-1 means the client was not previously contacted).
+- previous: Number of contacts performed before this campaign for the client.
+- previous_outcome: Outcome of the previous marketing campaign.
+- employment_variation_rate: Quarterly indicator of employment variation rate.
+- consumer_price_index: Monthly indicator of the consumer price index.
+- consumer_confidence_index: Monthly indicator of the consumer confidence index.
+- euribor3m: Daily indicator of the Euribor 3-month rate.
+- number_of_employees: Quarterly indicator of the number of employees.
+- y: Target: Binary indicator of whether the client has subscribed to a term deposit ("yes" or "no").
 
 
 ## Applied Models
