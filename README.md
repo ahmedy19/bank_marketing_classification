@@ -52,7 +52,40 @@ We tried as a team to analyze data of [Bank Marketing](https://archive.ics.uci.e
 - Decision tree.
 - Random forest.
 
-  
+
+## Visualisation
+
+- **Dataset**
+    ![image](/imgs/1d.png)
+
+- **Insight 1**
+    ![image](/imgs/2.png)
+
+- **Insight 2**
+    ![image](/imgs/3.png)
+
+- **Insight 3**
+    ![image](/imgs/4.png)
+
+- **Insight 4**
+    ![image](/imgs/5.png)
+
+- **Insight 5**
+    ![image](/imgs/6.png)
+
+- **Insight 6**
+    ![image](/imgs/7.png)
+
+- **Insight 7**
+    ![image](/imgs/8.png)
+
+- **Insight 8**
+    ![image](/imgs/9.png)
+
+- **Insight 9**
+    ![image](/imgs/10.png)
+
+
 ## Team Members:
     - Ahmed Yaseen.
     - BURAK KURUBACAKOĞLU.
