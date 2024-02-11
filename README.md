@@ -85,6 +85,9 @@ We tried as a team to analyze data of [Bank Marketing](https://archive.ics.uci.e
 - **Insight 9**
     ![image](/imgs/10.png)
 
+## Advisor:
+    - Ph.D. Damla ILTER FAKHOURI
+
 
 ## Team Members:
     - Ahmed Yaseen.
